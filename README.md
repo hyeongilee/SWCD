@@ -1,4 +1,5 @@
 # Visual Place Recognition Under Substantial Appearance Changes Using Event-Based Data
+* This work was conducted as a study of software convergence capstone design, a subject of Department of Software Convergence.
 
 ## Getting Started
 ### Dependencies
