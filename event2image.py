@@ -6,9 +6,6 @@ import scipy.io as sio
 import numpy as np
 import imageio
 
-class Struct:
-    pass
-
 def main(argv):
     inputfile = ''
     outputfile = ''
