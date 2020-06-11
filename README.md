@@ -1,5 +1,5 @@
 * This work was conducted as a study of software convergence capstone design, a subject of Department of Software Convergence.
-* Since the paper of this work is undergoing a review process, the eDescription will be released later.
+* Since the paper of this work is undergoing a review process, the description will be released later.
 ## Project Description
 ### Abstract
 <!--
