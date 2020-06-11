@@ -14,6 +14,11 @@ place recognition tasks in challenging weather and illumination conditions. We a
 exploit data association for better image sequence matching. While showing insignificant effect when applied to conventional images, the matching algorithm contributes to
 noticeable performance improvement using event-based images. We evaluate the performance of the proposed method using the synthetic and real-world dataset compared with
 the state-of-the-art frameworks.
+
+![fig2](https://user-images.githubusercontent.com/45928371/84344336-72cb2d80-abe5-11ea-9658-fac787b5c701.png)
+Pipeline of the proposed method. The network is trained offline and tested using
+event-based images and color images for evaluation.
+
 ## Getting Started
 ### Dependencies
 * Pytorch
