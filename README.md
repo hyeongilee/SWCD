@@ -27,7 +27,8 @@ event-based images and color images for evaluation.
 * openCV
 
 ### Run
-* After downloading the dataset, execute the code according to the dataset type.
+* When using synthetic data, download the dataset, and execute the code Event_Synthetic.ipynb.
+* With real data, convert the event to images using such code 'event2image.py' and execute the code Event_real.ipynb
 
 ## License
 * [MIT](https://choosealicense.com/licenses/mit/)
