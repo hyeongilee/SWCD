@@ -1,8 +1,11 @@
-# Visual Place Recognition Under Substantial Appearance Changes Using Event-Based Data
 * This work was conducted as a study of software convergence capstone design, a subject of Department of Software Convergence.
-
+* Since the paper of this work is undergoing a review process, the eDescription will be released later.
 ## Project Description
 ### Abstract
+<!--
+# Visual Place Recognition Under Substantial Appearance Changes Using Event-Based Data
+
+
 An event camera is a biologically inspired vision sensor which independently and
 asynchronously records changes of brightness as they occur in each pixel. With its high
 measurement rate, low latency, and high dynamic range properties, the sensor has a great
@@ -18,7 +21,7 @@ the state-of-the-art frameworks.
 ![fig2](https://user-images.githubusercontent.com/45928371/84344336-72cb2d80-abe5-11ea-9658-fac787b5c701.png)
 Pipeline of the proposed method. The network is trained offline and tested using
 event-based images and color images for evaluation.
-
+-->
 ## Getting Started
 ### Dependencies
 * Pytorch
